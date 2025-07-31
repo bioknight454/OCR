@@ -1,3 +1,6 @@
+install dataset di https://www.kaggle.com/datasets/juanthomaswijaya/indonesian
+license-plate-dataset		
+
 python mainuas.py #untuk membuat ground_thruth
 
 # menjalankan lmstudio
